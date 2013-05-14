@@ -19,15 +19,10 @@
 		Contém extensões do demoiselle v2.
 	</description>
 
-	<properties>
-		<frameworkdemoiselle.version>2.3.3</frameworkdemoiselle.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>br.gov.frameworkdemoiselle</groupId>
 			<artifactId>demoiselle-jpa</artifactId>
-			<version>${frameworkdemoiselle.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>br.gov.frameworkdemoiselle.component</groupId>
